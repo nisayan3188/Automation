@@ -1,0 +1,25 @@
+1715953830116	geckodriver	INFO	Listening on 127.0.0.1:61459
+1715953833175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileOX2iL5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715953834311	Marionette	INFO	Marionette enabled
+1715953834534	Marionette	INFO	Listening on port 61470
+WebDriver BiDi listening on ws://127.0.0.1:61460
+Read port: 61470
+1715953834957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61460/devtools/browser/be324672-f5fe-4426-b7e1-773d6ac8f6ee
+JavaScript warning: https://www.techlistic.com/beardeddragon/wyvern.js?cb=125, line 38: unreachable code after return statement
+1715953843844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.techlistic.com/beardeddragon/iguana.js?cb=363, line 2: ReferenceError: ReportingObserver is not defined
+JavaScript error: https://www.techlistic.com/p/selenium-practice-form.html line 1 > injectedScript, line 1: ReferenceError: BLOG_CMT_createIframe is not defined
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 85: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+1715953849495	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1715953864722	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 25: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1715953891496	Marionette	INFO	Stopped listening on port 61470
+JavaScript warning: https://www.techlistic.com/tardisrocinante/lazy_load.js?gcb=30&cb=6, line 1: Script terminated by timeout at:
+A/<@https://www.techlistic.com/tardisrocinante/lazy_load.js?gcb=30&cb=6:1:1953
+
+Dynamically enable window occlusion 1

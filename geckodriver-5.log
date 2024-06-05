@@ -1,0 +1,40 @@
+1715879161230	geckodriver	INFO	Listening on 127.0.0.1:58285
+1715879164311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58286" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilebIlZOp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715879164856	Marionette	INFO	Marionette enabled
+1715879164990	Marionette	INFO	Listening on port 58295
+WebDriver BiDi listening on ws://127.0.0.1:58286
+Read port: 58295
+1715879165308	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58286/devtools/browser/ad54874a-f8ee-4a89-99f7-b3fc589ffd22
+JavaScript error: https://demo.nopcommerce.com/Plugins/Widgets.NivoSlider/Scripts/jquery.nivo.slider.js?v=2zrdcEASzxCV351S7RU4ZQt8wRA, line 1: ReferenceError: jQuery is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: AjaxCart is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/ line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: AjaxCart is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://demo.nopcommerce.com/login?returnUrl=%2F line 1 > injectedScript, line 1: ReferenceError: $ is not defined
+1715879196084	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript warning: https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387, line 1: Script terminated by timeout at:
+104/T/<@https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387:1:10887
+t@https://static.cloudflareinsights.com/beacon.min.js/vedd3670a3b1c4e178fdfb0cc912d969e1713874337387:1:10748
+c@https://demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1715880249061	Marionette	INFO	Stopped listening on port 58295
+Dynamically enable window occlusion 1

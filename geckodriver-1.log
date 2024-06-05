@@ -1,0 +1,19 @@
+1715872195622	geckodriver	INFO	Listening on 127.0.0.1:65405
+1715872198787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileQhkaPp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715872199323	Marionette	INFO	Marionette enabled
+1715872199471	Marionette	INFO	Listening on port 65417
+WebDriver BiDi listening on ws://127.0.0.1:65406
+Read port: 65417
+1715872199801	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65406/devtools/browser/f0c0377e-a371-472a-85e9-9f397be8f66d
+1715872207291	Marionette	INFO	Stopped listening on port 65417
+JavaScript warning: https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0, line 2: Script terminated by timeout at:
+M@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:29370
+data@https://demo.nopcommerce.com/js/ugb2rim6qtxni-qfi-iama.scripts.js?v=g1zKjCcpM9evxZEaM4IwhFmEG_0:2:31681
+a@https://demo.nopcommerce.com/Plugins/Widgets.NivoSlider/Scripts/jquery.nivo.slider.js?v=2zrdcEASzxCV351S7RU4ZQt8wRA:1:6198
+t/o<@https://demo.nopcommerce.com/Plugins/Widgets.NivoSlider/Scripts/jquery.nivo.slider.js?v=2zrdcEASzxCV351S7RU4ZQt8wRA:1:1646
+
+Dynamically enable window occlusion 1

@@ -1,0 +1,61 @@
+1717533841931	geckodriver	INFO	Listening on 127.0.0.1:9667
+1717533844997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "9668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilesna8Jb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717533845780	Marionette	INFO	Marionette enabled
+1717533845929	Marionette	INFO	Listening on port 9678
+WebDriver BiDi listening on ws://127.0.0.1:9668
+Read port: 9678
+1717533846256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:9668/devtools/browser/5ea0b0ea-01dd-43a5-a366-179dd41366c9
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e6R7shjToccHjvtXBqpz-Ie7m27P8-gSQaPZwdo4QGU.js line 2 > eval line 3512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e6R7shjToccHjvtXBqpz-Ie7m27P8-gSQaPZwdo4QGU.js line 2 > eval line 4294 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6608785728070734%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6608785728070734%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.6608785728070734%22}:13:3642
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e6R7shjToccHjvtXBqpz-Ie7m27P8-gSQaPZwdo4QGU.js line 2 > eval line 3012 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e6R7shjToccHjvtXBqpz-Ie7m27P8-gSQaPZwdo4QGU.js line 2 > eval line 2732 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js, line 75: Script terminated by timeout at:
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:75:305
+n.unsubscribe@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:126
+rd.prototype.B@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:90:1147
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+n.B@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:275
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+n.B@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:275
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+ud.prototype.da@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:92:45
+n.da@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:101:220
+sd.prototype.B@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:91:39
+n.complete@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:47
+wi/c/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:430
+Wa@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:339
+Ta.prototype.flush@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:47:127
+Va@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:466
+wi/c/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:153:292
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:490
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:172
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:764
+qh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.Xb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+qh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:490
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:172
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:764
+qh/</</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:516
+Sa.prototype.Xb/<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:46:298
+qh/</</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:136:525
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:79:490
+n.o@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:78:172
+n.next@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:77:764
+Rd/</<@https://pagead2.googlesyndication.com/pagead/managed/js/activeview/current/ufs_web_display.js:96:625
+
+1717533860062	Marionette	INFO	Stopped listening on port 9678
+Dynamically enable window occlusion 1

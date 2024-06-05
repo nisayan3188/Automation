@@ -1,0 +1,34 @@
+1715956511577	geckodriver	INFO	Listening on 127.0.0.1:59422
+1715956514647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59423" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile8Ve8Km"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956514989	Marionette	INFO	Marionette enabled
+1715956515066	Marionette	INFO	Listening on port 59432
+WebDriver BiDi listening on ws://127.0.0.1:59423
+Read port: 59432
+1715956515269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59423/devtools/browser/dc598d23-b991-41e7-93b6-fb6135612d16
+JavaScript warning: https://www.techlistic.com/beardeddragon/wyvern.js?cb=125, line 38: unreachable code after return statement
+1715956520350	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.techlistic.com/beardeddragon/iguana.js?cb=363, line 2: ReferenceError: ReportingObserver is not defined
+JavaScript error: https://www.techlistic.com/p/selenium-practice-form.html line 1 > injectedScript, line 1: ReferenceError: BLOG_CMT_createIframe is not defined
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 85: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1715956525884	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.error: (new TypeError("state.hideToggleDeferredTask is null", "resource://gre/actors/PictureInPictureChild.sys.mjs", 1449))
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 25: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hvZ7gG4hmM1jbzQWIr9-kxGv0AS6oua7rFIkWi0W2Qc.js line 2 > eval line 5098 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1715956545036	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 25: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 25: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 25: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c, line 163: Script terminated by timeout at:
+Ab@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:163:128
+cm@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:326:363
+Mm@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:334:747
+xG/<@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:594:178
+aa.Ok/<@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:542:126
+aa.Ok/c/<@https://www.googletagmanager.com/gtag/js?id=G-D1TQLC8YB9&l=dataLayer&cx=c:541:420
+
+1715956673870	Marionette	INFO	Stopped listening on port 59432
+Dynamically enable window occlusion 1

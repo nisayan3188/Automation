@@ -1,0 +1,25 @@
+1717448015709	geckodriver	INFO	Listening on 127.0.0.1:61698
+1717448018783	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofileeGQY3P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717448019781	Marionette	INFO	Marionette enabled
+1717448020003	Marionette	INFO	Listening on port 61708
+Read port: 61708
+WebDriver BiDi listening on ws://127.0.0.1:61699
+1717448020155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61699/devtools/browser/58cb5919-b074-4735-b1e0-3f0fa2fc9cfa
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.26040803806630564%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.26040803806630564%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:153,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.26040803806630564%22}:13:3642
+
+1717448029688	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iChAjTPGz_AUKl9iB7cm3xSI7kRmMOEmo-8lF6HK91A.js line 2 > eval line 589 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/iChAjTPGz_AUKl9iB7cm3xSI7kRmMOEmo-8lF6HK91A.js line 2 > eval line 903 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717448033862	Marionette	INFO	Stopped listening on port 61708
+JavaScript warning: https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js, line 1239: Script terminated by timeout at:
+b@https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js:1239:654
+
+Dynamically enable window occlusion 1

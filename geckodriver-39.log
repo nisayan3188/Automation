@@ -1,0 +1,23 @@
+1715956720988	geckodriver	INFO	Listening on 127.0.0.1:59825
+1715956724093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59826" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilexbEoaC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715956724430	Marionette	INFO	Marionette enabled
+1715956724508	Marionette	INFO	Listening on port 59836
+WebDriver BiDi listening on ws://127.0.0.1:59826
+Read port: 59836
+1715956724710	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59826/devtools/browser/ec279226-0a4e-4c0b-a088-d0aa47dd324a
+JavaScript warning: https://www.techlistic.com/beardeddragon/wyvern.js?cb=125, line 38: unreachable code after return statement
+1715956729647	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.techlistic.com/beardeddragon/iguana.js?cb=363, line 2: ReferenceError: ReportingObserver is not defined
+JavaScript error: https://www.techlistic.com/p/selenium-practice-form.html line 1 > injectedScript, line 1: ReferenceError: BLOG_CMT_createIframe is not defined
+JavaScript error: https://www.techlistic.com/ezossp/https/resources.blogblog.com/blogblog/data/res/2809677405-indie_compiled.js?screx=1&sxcb=1a, line 85: uncaught exception: AssertionError: Assertion failed: goog.dom.insertSiblingBefore expects non-null arguments
+1715956734840	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://www.techlistic.com/tardisrocinante/vitals.js?gcb=30&cb=4, line 1: Script terminated by timeout at:
+y/<@https://www.techlistic.com/tardisrocinante/vitals.js?gcb=30&cb=4:1:2338
+t@https://www.techlistic.com/tardisrocinante/vitals.js?gcb=30&cb=4:1:2199
+
+1715956747393	Marionette	INFO	Stopped listening on port 59836
+Dynamically enable window occlusion 1

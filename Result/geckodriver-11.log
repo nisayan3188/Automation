@@ -1,0 +1,39 @@
+1717602187396	geckodriver	INFO	Listening on 127.0.0.1:57353
+1717602190461	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57354" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilelHV52K"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717602190795	Marionette	INFO	Marionette enabled
+1717602190862	Marionette	INFO	Listening on port 57361
+WebDriver BiDi listening on ws://127.0.0.1:57354
+Read port: 57361
+1717602191001	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+DevTools listening on ws://127.0.0.1:57354/devtools/browser/bb9f27a9-8849-4e6d-8ac1-783c1ea68793
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hOaKO2SoUP5ZvIeLrcFj7DiKWZPkW4aKTYwro_EJXjQ.js line 2 > eval line 853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hOaKO2SoUP5ZvIeLrcFj7DiKWZPkW4aKTYwro_EJXjQ.js line 2 > eval line 7578 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717602221870	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.7102885539480426%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.7102885539480426%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.7102885539480426%22}:13:3642
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hOaKO2SoUP5ZvIeLrcFj7DiKWZPkW4aKTYwro_EJXjQ.js line 2 > eval line 6778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hOaKO2SoUP5ZvIeLrcFj7DiKWZPkW4aKTYwro_EJXjQ.js line 2 > eval line 5670 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/hOaKO2SoUP5ZvIeLrcFj7DiKWZPkW4aKTYwro_EJXjQ.js line 2 > eval line 816 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717602303400	Marionette	INFO	Stopped listening on port 57361
+JavaScript warning: https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js, line 1239: Script terminated by timeout at:
+b@https://fdyn.pubwise.io/script/b7da2361-4ada-4374-9097-af748311b5fe/v3/dyn/pws.js:1239:527
+
+JavaScript warning: https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0, line 1100: Script terminated by timeout at:
+IsProductConnected@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:1100:5
+IsProductConnected@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:1408:27
+IsProductConnected@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:1637:31
+IsProductConnected@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:2007:35
+IntervalCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:2142:93
+IntervalCallback@https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=i2fiMl4xOaWJYnN9YX_sOxyOluz9GtDEPTZX-gt54gdem90WlKlh6ruY1cC2-Hjg1c3-U7OqQEarbYUuH9XIksE4wct90ih3E-oHP1b62D-L130k5QnDYRpnAKnfypDG4qkL8QKMIYGGksBInzcdcFB8ziAROeOFPKTsMwIe1G0:388:21
+
+Dynamically enable window occlusion 1

@@ -1,0 +1,23 @@
+1715882403148	geckodriver	INFO	Listening on 127.0.0.1:61035
+1715882406256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61036" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofilea7jrSV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715882406586	Marionette	INFO	Marionette enabled
+1715882406672	Marionette	INFO	Listening on port 61043
+WebDriver BiDi listening on ws://127.0.0.1:61036
+Read port: 61043
+1715882406911	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61036/devtools/browser/06ec019e-0c5f-4948-b0b1-1daf657242bb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.nopcommerce.com."
+1715882436778	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-SCT41TW89V, line 182: Script terminated by timeout at:
+z@https://www.googletagmanager.com/gtag/js?id=G-SCT41TW89V:182:158
+cA@https://www.googletagmanager.com/gtag/js?id=G-SCT41TW89V:538:134
+dA/<@https://www.googletagmanager.com/gtag/js?id=G-SCT41TW89V:538:111
+c@https://demo.nopcommerce.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js:1:9405
+
+1715886364672	Marionette	INFO	Stopped listening on port 61043
+Dynamically enable window occlusion 1

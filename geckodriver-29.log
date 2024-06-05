@@ -1,0 +1,15 @@
+1715953921542	geckodriver	INFO	Listening on 127.0.0.1:62362
+1715953924658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile2oFKC7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1715953925976	Marionette	INFO	Marionette enabled
+1715953926201	Marionette	INFO	Listening on port 62372
+WebDriver BiDi listening on ws://127.0.0.1:62363
+Read port: 62372
+1715953926798	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62363/devtools/browser/26f2b3a6-a375-414d-910c-888f8393b352
+JavaScript warning: https://www.techlistic.com/beardeddragon/wyvern.js?cb=125, line 38: unreachable code after return statement
+1715953937444	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+Exiting due to channel error.
+Exiting due to channel error.

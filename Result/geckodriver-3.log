@@ -1,0 +1,21 @@
+1717530418301	geckodriver	INFO	Listening on 127.0.0.1:54484
+1717530421411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\hp\\AppData\\Local\\Temp\\rust_mozprofile9AMWc7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1717530421809	Marionette	INFO	Marionette enabled
+1717530421908	Marionette	INFO	Listening on port 54497
+WebDriver BiDi listening on ws://127.0.0.1:54485
+Read port: 54497
+1717530422086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54485/devtools/browser/2910290e-34ed-407f-8920-422596307bf5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://demo.guru99.com."
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript warning: https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.39417638452749915%22}, line 13: Script terminated by timeout at:
+r.prototype.flushEventQueue@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.39417638452749915%22}:13:3137
+r/<@https://gum.criteo.com/syncframe?origin=publishertagids&topUrl=demo.guru99.com#{%22lwid%22:{%22origin%22:0},%22bundle%22:{%22origin%22:0},%22optout%22:{%22value%22:false,%22origin%22:0},%22tld%22:%22guru99.com%22,%22topUrl%22:%22demo.guru99.com%22,%22version%22:154,%22cw%22:true,%22lsw%22:true,%22origin%22:%22publishertagids%22,%22requestId%22:%220.39417638452749915%22}:13:3642
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/e6R7shjToccHjvtXBqpz-Ie7m27P8-gSQaPZwdo4QGU.js line 2 > eval line 971 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1717530451847	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1717530748774	Marionette	INFO	Stopped listening on port 54497
+Dynamically enable window occlusion 1
